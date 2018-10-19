@@ -5,7 +5,7 @@ combinatorics. Click on the binder link below to open it in interactive mode:
 this will allow you to edit the code snippets and play around with elements and
 subsets yourself. 
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/CompLogicEss/SetsSubsets/master?filepath=SetsSubsets.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/CompLogicEss/Combinatorics/master?filepath=Combinatorics.ipynb)
 
 Alternatively you can click on the filename above (Combinatorics.ipynb) and read
 the file with all the code run already.
